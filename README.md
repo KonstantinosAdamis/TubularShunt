@@ -7,4 +7,4 @@ Here i show the code in python of a real application along with the extracted fi
 
 Note: H(s) = R^2/(2R+sL)
 
-![SH-H_-_Sleeve_Impulse_Current_Measuring_Shunt__-_HAEFELY_-_1](https://github.com/user-attachments/assets/89ff160a-33e4-4b71-81b1-0058ac1d95f5)
+![Screenshot 2024-10-22 172624](https://github.com/user-attachments/assets/86c7ba26-99f2-460d-8df3-fbe0b2c2110b)
