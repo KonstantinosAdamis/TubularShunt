@@ -6,4 +6,5 @@ By applying Discrete Fourier Transform on h(t) we can take all the information a
 Here i show the code in python of a real application along with the exctraced figures after running the program.
 
 Note: H(s) = R^2/(2R+sL)
+
 ![SH-H_-_Sleeve_Impulse_Current_Measuring_Shunt__-_HAEFELY_-_1](https://github.com/user-attachments/assets/89ff160a-33e4-4b71-81b1-0058ac1d95f5)
