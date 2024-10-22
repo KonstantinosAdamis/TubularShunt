@@ -5,4 +5,4 @@ If we know the transfer function H(s) of a Tubular Shunt according to the simpli
 By applying Discrete Fourier Transform on h(t) we can take all the information about the magnitude of the |H(jω)|.
 Here i show the code in python of a real application along with the exctraced figures after running the program.
 
-e.g. H(s) = R**2/(2*R+sL)
+Note: H(s) = R^2/(2R+sL)
