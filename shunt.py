@@ -7,7 +7,7 @@ T = 1 / Fs  # Sampling interval
 t = np.arange(0, 1, T)  # Time vector from 0 to 1 second
 
 # Signal: h(t)
-signal = 177187*np.exp(-8.85936*(10**7)*t)
+signal = 177187*np.exp(-8.85936*10**7*t)
 
 # Compute DFT using numpy's FFT function
 dft = np.fft.fft(signal)
